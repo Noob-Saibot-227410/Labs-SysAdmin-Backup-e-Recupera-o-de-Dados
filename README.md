@@ -24,7 +24,7 @@
 
 <h1>Tecnologias utilizadas:</h1>
 <ul>
-	<li><a href="https://www.vagrantup.com/" target="_blank"><img src="https://img.icons8.com/windows/32/000000/vagrant.png"/> Vagrant</a></li>
+	<li><a href="https://www.vagrantup.com/" target="_blank"><img src="https://img.icons8.com/color/32/000000/vagrant.png"/> Vagrant</a></li>
 	<li><a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.icons8.com/color/32/000000/virtualbox.png"/> VirtualBox</a></li>
 	<li><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/windows/32/000000/console.png"/> Bash</a></li>
 </ul>
